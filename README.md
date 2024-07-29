@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali76codes&label=Profile%20views&color=0e75b6&style=flat" alt="anjali76codes" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, Mongodb**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **anjaligupta92958@gmail.com**
 
