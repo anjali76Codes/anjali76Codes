@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://github.com/anjali76Codes/Images/blob/main/Anjali.png"  />
-</div>
+
 
 ###
 
