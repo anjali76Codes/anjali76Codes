@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://github.com/anjali76Codes/Images/blob/main/Anjali.png" alt="Profile" style="width: 100%; max-width: 1000px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
