@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anjali76Codes/Images/blob/main/Anjali.png" alt="Profile" style="width: 100%; height: auto;" />
+  <img src="https://github.com/anjali76Codes/Images/blob/main/Anjali.png" alt="Profile" style="width: 90%; height: auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
