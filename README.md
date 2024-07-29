@@ -126,3 +126,11 @@
 </div>
 
 ###
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anjali76Codes/anjali76Codes/output/snake.svg" alt="Snake animation" />
+
+###
