@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://your-image-url.com/banner.jpg](https://drive.google.com/file/d/15Hkgq8xxHxX3alS8doqqFgutNj7SxIIX/view?usp=drive_link)" alt="Profile Banner" width="600" />
+  <img src="https://drive.google.com/uc?export=view&id=15Hkgq8xxHxX3alS8doqqFgutNj7SxIIX" alt="Profile Banner" width="600" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
