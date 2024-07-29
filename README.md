@@ -1,3 +1,8 @@
+
+
+<p align="center">
+  <img src="C:\Users\Anjali Gupta\Downloads\Blue White Modern Online Business Webinar Banner.png" alt="Profile Banner" width="600" />
+</p>
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
