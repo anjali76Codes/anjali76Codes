@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom: 20px;">
+<div align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" style="width: 100%; height: 80%;" />
 </div>
 
