@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fl%3Dpython%26o%3Ddesc%26s%3Dforks&psig=AOvVaw0SqBeDZacglNqBZFYFyNYO&ust=1722608307088000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiBmo-T_tOHAxWaSmwGHXnmDeoQjRx6BAgAEBQ" alt="Animated GIF" />
 </div>
 
 ###
@@ -30,10 +30,9 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Programming Tools:</h3>
 
 <p align="left">
-  <!-- Frontend Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   </a>
@@ -49,8 +48,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
   </a>
-
-  <!-- Backend Development -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   </a>
@@ -63,16 +60,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a>
-
-  <!-- Mobile App Development -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>
   </a>
-
-  <!-- Skills -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
   </a>
@@ -85,8 +78,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
-
-  <!-- Software -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
   </a>
