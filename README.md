@@ -106,7 +106,4 @@
 
 ###
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/anjali76Codes/anjali76Codes/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
+
