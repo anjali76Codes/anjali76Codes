@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fl%3Dpython%26o%3Ddesc%26s%3Dforks&psig=AOvVaw0SqBeDZacglNqBZFYFyNYO&ust=1722608307088000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiBmo-T_tOHAxWaSmwGHXnmDeoQjRx6BAgAEBQ](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)" alt="Animated GIF" />
+  <img height="150" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" />
 </div>
 
 ###
@@ -106,4 +106,7 @@
 
 ###
 
-
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/anjali76Codes/anjali76Codes/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
