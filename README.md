@@ -84,6 +84,31 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" style="margin: 10px;"/>
   </a>
+  <!-- AI/ML & DevOps stack -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" style="margin: 10px;"/>
+  </a>
 </p>
 
 ###
@@ -96,14 +121,21 @@
 
 <div align="center">
   <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali76codes&show_icons=true&locale=en" alt="anjali76codes" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali76codes&show_icons=true&locale=en&count_private=true" alt="anjali76codes" />
   </p>
   <img src="https://streak-stats.demolab.com?user=anjali76Codes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjali76Codes&theme=github_dark" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjali76Codes&theme=github_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjali76Codes&theme=github_dark" alt="most commit language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali76Codes&theme=github_dark" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" alt="productive time" />
 </div>
 
 ###
-
-
