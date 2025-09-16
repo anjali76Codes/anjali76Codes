@@ -30,40 +30,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjali76Codes&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
-</div>
-
-###
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="anjali76codes" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali76Codes&theme=react-dark&hide_border=true&area=true" height="300" alt="activity graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anjali76Codes&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<h3 align="left">🛠️ Languages and Programming Tools:</h3>
+<h3 align="left">Languages and Programming Tools:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -117,50 +84,26 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" style="margin: 10px;"/>
   </a>
-  <!-- AI/ML Tools -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <!-- DevOps Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="margin: 10px;"/>
-  </a>
 </p>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <h3>📊 GitHub Metrics</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjali76Codes&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjali76Codes&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjali76Codes&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali76Codes&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=radical" alt="Productive Time" />
+  <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali76codes&show_icons=true&locale=en" alt="anjali76codes" />
+  </p>
+  <img src="https://streak-stats.demolab.com?user=anjali76Codes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github.com/anjali76Codes/anjali76Codes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
