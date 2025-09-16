@@ -141,9 +141,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&count_private=true&show_icons=true&include_all_commits=true&custom_title=Total%20Commits%20(Overall%20+%202025)" alt="total commits" />
   <br/>
-  <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-🚀%201234-green" alt="2025 commits badge" />
-  <img src="https://img.shields.io/badge/Total%20Commits%20(All%20Time)-🌟%209876-blue" alt="all time commits badge" />
-  <img src="https://img.shields.io/badge/Total%20Forks-🍴%2042-orange" alt="total forks badge" />
 </div>
 
 ###
