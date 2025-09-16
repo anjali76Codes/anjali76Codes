@@ -33,6 +33,7 @@
 <h3 align="left">Languages and Programming Tools:</h3>
 
 <p align="left">
+  <!-- Existing Stack -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin: 10px;"/>
   </a>
@@ -73,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="margin: 10px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin-left: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin: 10px;"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="margin: 10px;"/>
@@ -84,7 +85,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" style="margin: 10px;"/>
   </a>
-  <!-- AI/ML & DevOps stack -->
+
+  <!-- AI/ML -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="60" height="60" style="margin: 10px;"/>
   </a>
@@ -97,6 +99,8 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="60" height="60" style="margin: 10px;"/>
   </a>
+
+  <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px;"/>
   </a>
@@ -123,19 +127,23 @@
   <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali76codes&show_icons=true&locale=en&count_private=true" alt="anjali76codes" />
   </p>
+  
   <img src="https://streak-stats.demolab.com?user=anjali76Codes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br/>
-  <br/>
+  
+  <br/><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph" />
-  <br/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjali76Codes&theme=github_dark" alt="profile details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjali76Codes&theme=github_dark" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjali76Codes&theme=github_dark" alt="most commit language" />
-  <br/>
+  
+  <br/><br/>
+
+  <!-- Extra Commit and Fork Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali76Codes&theme=github_dark" alt="stats card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" alt="productive time" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&count_private=true&show_icons=true&include_all_commits=true&custom_title=Total%20Commits%20(Overall%20+%202025)" alt="total commits" />
+  <br/>
+  <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-🚀%201234-green" alt="2025 commits badge" />
+  <img src="https://img.shields.io/badge/Total%20Commits%20(All%20Time)-🌟%209876-blue" alt="all time commits badge" />
+  <img src="https://img.shields.io/badge/Total%20Forks-🍴%2042-orange" alt="total forks badge" />
 </div>
 
 ###
