@@ -1,24 +1,27 @@
 <div align="center">
+  <!-- Animated GIF or Profile Picture (Optional) -->
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" style="width: 100%; height: 350px;" />
 </div>
 
 ###
 
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <!-- Social Media Badges -->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 </div>
 
 ###
 
+<!-- Visitor Badge (Profile Views) -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjali76Codes.anjali76Codes&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjali76Codes.anjali76Codes" alt="Profile Views" />
 </div>
 
 ###
 
-<h3 align="center">hey there 👋</h3>
+<h3 align="center">Hey there 👋</h3>
 
 ###
 
@@ -26,7 +29,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
 As a software engineer, my role is more than a job; it's a passion and a key part of my life. Being creative and innovative in this field fills me with enthusiasm, confidence, and a strong sense of self-worth. The challenges and continuous learning keep me motivated and professionally fulfilled.
@@ -86,7 +89,7 @@ As a software engineer, my role is more than a job; it's a passion and a key par
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
 
@@ -112,5 +115,14 @@ As a software engineer, my role is more than a job; it's a passion and a key par
 
   <!-- Commit History -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" alt="Commit Activity" />
+
+  <br/><br/>
+
+  <!-- Extra Stats (Followers, Stars, Repos) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/anjali76Codes?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/anjali76Codes?label=Stars&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/repositories/anjali76Codes?label=Repositories&style=social" alt="GitHub Repos" />
+  </p>
 
 </div>
