@@ -116,13 +116,14 @@ As a software engineer, my role is more than a job; it's a passion and a key par
   <!-- Commit History -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" alt="Commit Activity" />
 
-  <br/><br/>
-
-  <!-- Extra Stats (Followers, Stars, Repos) -->
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/anjali76Codes?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/anjali76Codes?label=Stars&style=social" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/repositories/anjali76Codes?label=Repositories&style=social" alt="GitHub Repos" />
-  </p>
-
 </div>
+
+<br />
+
+<!-- GitHub Star Badge -->
+<div align="center">
+  <a href="https://github.com/anjali76Codes" target="_blank">
+    <img src="https://img.shields.io/github/stars/anjali76Codes?style=for-the-badge&color=ff69b4&label=Stars&logo=github" alt="GitHub Stars" />
+  </a>
+</div>
+
