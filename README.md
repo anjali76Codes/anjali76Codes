@@ -16,8 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anjali76Codes.anjali76Codes&" />
 </div>
 
-###
-
 <h3 align="center">hey there 👋</h3>
 
 ###
