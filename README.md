@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://anjali-my-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
-  </a>
-  <a href="https://leetcode.com/u/anjali_92958/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" />
-  </a>
-</div>
 
 
 <div align="center">
@@ -30,6 +22,13 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anjali76Codes.anjali76Codes&" />
+</div>
+
+<div align="center">
+  <a href="https://anjali-my-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  </a>
+
 </div>
 
 ###
