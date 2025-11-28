@@ -1,36 +1,19 @@
-
-
-<div align="left">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" 
-       alt="Animated GIF" 
-       style="width: 100%; max-width: 100%; height: 350px;" />
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" style="width: 100%; height: 350px;" />
 </div>
 
 ###
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/anjali76Codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anjali76Codes.anjali76Codes&" />
-</div>
-
-<div align="center">
-  <a href="https://anjali-my-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
-  </a>
-
 </div>
 
 ###
@@ -86,35 +69,52 @@ As a software engineer, my role is more than a job; it's a passion and a key par
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" />
 
   <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="60" height="60" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60" style="margin: 10px;"/>
+  </a>
 
 </p>
 
 ###
-
+<div align="left">
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" 
+       alt="Animated GIF" 
+       style="width: 100%; max-width: 100%; height: 350px;" />
+</div>
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=anjali76Codes&theme=dark&hide_border=false" height="200" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=anjali76Codes&theme=dark&hide_border=false" height="200" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&layout=compact&langs_count=10&theme=highcontrast" height="150" />
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali76Codes&layout=compact&langs_count=10&theme=highcontrast" height="150" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali76Codes&theme=github_dark" />
+  <!-- Contribution Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali76Codes&theme=github_dark" alt="Summary Card" />
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" />
+  <!-- Commit History -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali76Codes&theme=github_dark&utcOffset=5" alt="Commit Activity" />
 
 </div>
