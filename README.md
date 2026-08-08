@@ -2,43 +2,21 @@
   <a href="https://portfolio-anjali76.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
   </a>
+ 
 </div>
 
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" width="100%" height="350px" />
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" style="width: 100%; height: 350px;" />
 </div>
 
-# 💫 About Me
+###
+# 💫 About Me:
+👩‍💻 I’m a Computer Engineering graduate who enjoys building full-stack and AI-powered applications. I have hands-on experience through 2 Software Engineering internships, working with React, Node.js, APIs, databases, AI agents, and automation using n8n and Playwright. I’m also exploring DevOps and cloud technologies while continuously learning about AI agents, automation, and modern development tools. 🚀<br>
 
-👩‍💻 I'm a Computer Engineering graduate who enjoys building full-stack and AI-powered applications.
 
-I have hands-on experience through 2 Software Engineering internships, working with React, Node.js, REST APIs, databases, AI agents, and automation using n8n and Playwright.
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@anjali76Codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjaligupta76) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@anjali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaligupta92958@gmail.com) 
 
-I'm also exploring DevOps and cloud technologies while continuously learning about AI agents, automation, and modern development tools. 🚀
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://bsky.app/profile/anjali76codes.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/anjaligupta76/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://mastodon.social/@anjali" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-
-  <a href="mailto:anjaligupta92958@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 # 💻 Tech Stack
 
@@ -122,53 +100,9 @@ I'm also exploring DevOps and cloud technologies while continuously learning abo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anjali76Codes&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali76Codes&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali76Codes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anjali76Codes&theme=radical&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjali76Codes&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-# 📈 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anjali76Codes&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjali76Codes&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <b>💻 Building. Learning. Automating. 🚀</b>
-</p>
