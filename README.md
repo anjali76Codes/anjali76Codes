@@ -11,7 +11,13 @@
 ###
 # 💫 About Me:
 
-Hi, I’m Anjali! 👋
+<div align="center">
+  <h1 align="center" style="border-bottom: none;">
+    <span style="background: linear-gradient(90deg, #FF5733, #FFC300, #DAF7A6, #33FF57, #3357FF, #8E44AD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: bold;">
+      ✨ Hi, I'm Anjali Gupta! ✨
+    </span>
+  </h1>
+</div>
 
 I’m a Computer Engineering graduate who loves building full-stack applications and experimenting with smart AI tools. Over the past couple of years, I’ve had the chance to work across two Software Engineering internships, getting my hands dirty with React, Node.js, databases, and automating workflows using n8n and Playwright. 
 
