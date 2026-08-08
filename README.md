@@ -2,7 +2,6 @@
   <a href="https://portfolio-anjali76.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
   </a>
- 
 </div>
 
 <div align="center">
@@ -11,8 +10,12 @@
 
 ###
 # 💫 About Me:
-👩‍💻 I’m a Computer Engineering graduate who enjoys building full-stack and AI-powered applications. I have hands-on experience through 2 Software Engineering internships, working with React, Node.js, APIs, databases, AI agents, and automation using n8n and Playwright. I’m also exploring DevOps and cloud technologies while continuously learning about AI agents, automation, and modern development tools. 🚀<br>
 
+Hi, I’m Anjali! 👋
+
+I’m a Computer Engineering graduate who loves building full-stack applications and experimenting with smart AI tools. Over the past couple of years, I’ve had the chance to work across two Software Engineering internships, getting my hands dirty with React, Node.js, databases, and automating workflows using n8n and Playwright. 
+
+Lately, I’ve been diving deeper into cloud infrastructure and DevOps while constantly building and learning about AI agents, automation, and modern tech stacks.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@anjali76Codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjaligupta76) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@anjali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaligupta92958@gmail.com) 
@@ -105,4 +108,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=anjali76Codes&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
