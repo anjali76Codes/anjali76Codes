@@ -110,7 +110,5 @@ Lately, I’ve been diving deeper into cloud infrastructure and DevOps while con
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![anjali76Codes's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=anjali76Codes&theme=github&chart=donut)
 
