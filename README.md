@@ -107,6 +107,6 @@ Lately, I’ve been diving deeper into cloud infrastructure and DevOps while con
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 # 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=anjali76Codes&theme=chartreuse-dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjali76Codes&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
