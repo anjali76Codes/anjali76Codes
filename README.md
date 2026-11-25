@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=anjali76Codes)
+
 <div align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Animated GIF" style="width: 100%; height: 350px;" />
 </div>
@@ -108,5 +110,6 @@ Lately, I’ve been diving deeper into cloud infrastructure and DevOps while con
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anjali76Codes&include_all_commits=true))
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anjali76Codes)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjali76Codes)](https://git.io/streak-stats)
