@@ -32,6 +32,7 @@ Feel free to explore my ⭐ starred repositories to get a better idea of what I'
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" />
   </a>
 </p>
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
